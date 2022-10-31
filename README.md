@@ -13,9 +13,9 @@ IDEs.
 - [IntelliJ Platform Slack](https://plugins.jetbrains.com/slack/)
 - [IntelliJ Plugin Development Forum](https://intellij-support.jetbrains.com/hc/en-us/community/topics/200366979-IntelliJ-IDEA-Open-API-and-Plugin-Development)
 - [IntelliJ Community (Repo)](https://github.com/JetBrains/intellij-community)
-- [IntelliJ Platform Explorer](https://plugins.jetbrains.com/intellij-platform-explorer/extensions
+- [IntelliJ Platform Explorer](https://plugins.jetbrains.com/intellij-platform-explorer/extensions)
 - [Gerrit Plugin (reference)](https://plugins.jetbrains.com/plugin/7272-gerrit/))
-
+- [Random Background Plugin (reference)](https://plugins.jetbrains.com/plugin/9692-random-background)
 
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
