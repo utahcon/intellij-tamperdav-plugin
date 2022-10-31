@@ -1,8 +1,14 @@
-# intellij-tamperdav-plugin
+# TamperDAV (intellij-tamperdav-plugin)
 
-![Build](https://github.com/utahcon/intellij-tamperdav-plugin/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+This plugin provides ease of use for TamperMonkey developers by embedding TamperDAV control right into the IntelliJ 
+IDEs. 
+
+[//]: # (![Build]&#40;https://github.com/utahcon/intellij-tamperdav-plugin/workflows/Build/badge.svg&#41;)
+[//]: # ([![Version]&#40;https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg&#41;]&#40;https://plugins.jetbrains.com/plugin/PLUGIN_ID&#41;)
+[//]: # ([![Downloads]&#40;https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg&#41;]&#40;https://plugins.jetbrains.com/plugin/PLUGIN_ID&#41;)
+
+## Links
+- [IntelliJ Platform SDK](https://plugins.jetbrains.com/docs/intellij/key-topics.html)
 
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
